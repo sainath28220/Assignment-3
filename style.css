@@ -1,0 +1,35 @@
+.header{
+    height:16em;
+    width:100%;
+    border: 2px solid grey;
+    background-color: lightskyblue;
+}
+.header img{
+    height: 200px;
+    width: 200px;
+    padding: 25px;
+}
+.header h1{
+    float: right;
+    margin-top: 105px;
+    padding-right: 400px;
+}
+.body1{
+    height: 22em;
+    margin-top: 15px;
+    width: 100%;
+    border: 2px solid #222;
+    background-color: lightblue;
+}
+.sites{
+    margin-top: 3em;
+    padding-left: 10em;
+    text-transform: capitalize;
+    float: left;
+}
+.body1 .links1{
+    float: right;
+    text-transform: capitalize;
+    margin-top:3.5em;
+    padding-right: 35em;
+}
